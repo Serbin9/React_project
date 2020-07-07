@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b8bff3a872c0f053f76dc253655ee167",
+    "revision": "bfb593dfba3a3b86dfe7dd9b8c838c5c",
     "url": "/react_project/index.html"
   },
   {
@@ -8,28 +8,28 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react_project/static/css/10.8dca7762.chunk.css"
   },
   {
-    "revision": "92e5682252f52379bf05",
-    "url": "/react_project/static/css/AuthPage.7e2588db.chunk.css"
+    "revision": "7e8b1f13890a4c70372c",
+    "url": "/react_project/static/css/AuthPage.da66c60e.chunk.css"
   },
   {
-    "revision": "38a1eda46d22805f1d14",
-    "url": "/react_project/static/css/AwardsPage.2e3eab88.chunk.css"
+    "revision": "d48f470110ed3a5e174f",
+    "url": "/react_project/static/css/AwardsPage.9657ba49.chunk.css"
   },
   {
-    "revision": "2b8e26c5b405275923cb",
-    "url": "/react_project/static/css/ContactsPage.45c4b1fe.chunk.css"
+    "revision": "fc134b8f2a7d196b8d65",
+    "url": "/react_project/static/css/ContactsPage.ab2d1ab8.chunk.css"
   },
   {
-    "revision": "4bf23fccdc483cb598f5",
-    "url": "/react_project/static/css/MainPage.0f466ca6.chunk.css"
+    "revision": "e2b87d344b25dd9973b1",
+    "url": "/react_project/static/css/MainPage.7d91c223.chunk.css"
   },
   {
-    "revision": "d72a760fc5aea0e42c75",
-    "url": "/react_project/static/css/PlanningPage.6c5ea279.chunk.css"
+    "revision": "604210922176436efe2c",
+    "url": "/react_project/static/css/PlanningPage.acde588e.chunk.css"
   },
   {
-    "revision": "170610398945f8e91168",
-    "url": "/react_project/static/css/main.01f3ed35.chunk.css"
+    "revision": "8519b535e029c2e3d5e6",
+    "url": "/react_project/static/css/main.fa935c0c.chunk.css"
   },
   {
     "revision": "8baf779f183f7aa0977a",
@@ -60,32 +60,32 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react_project/static/js/9.57fcd7de.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "92e5682252f52379bf05",
-    "url": "/react_project/static/js/AuthPage.48b8ff7f.chunk.js"
+    "revision": "7e8b1f13890a4c70372c",
+    "url": "/react_project/static/js/AuthPage.446d4278.chunk.js"
   },
   {
-    "revision": "38a1eda46d22805f1d14",
-    "url": "/react_project/static/js/AwardsPage.16e140e7.chunk.js"
+    "revision": "d48f470110ed3a5e174f",
+    "url": "/react_project/static/js/AwardsPage.5dc286da.chunk.js"
   },
   {
-    "revision": "2b8e26c5b405275923cb",
-    "url": "/react_project/static/js/ContactsPage.1f55b2b1.chunk.js"
+    "revision": "fc134b8f2a7d196b8d65",
+    "url": "/react_project/static/js/ContactsPage.bf872d63.chunk.js"
   },
   {
-    "revision": "4bf23fccdc483cb598f5",
-    "url": "/react_project/static/js/MainPage.0184a231.chunk.js"
+    "revision": "e2b87d344b25dd9973b1",
+    "url": "/react_project/static/js/MainPage.8cba04bf.chunk.js"
   },
   {
-    "revision": "d72a760fc5aea0e42c75",
-    "url": "/react_project/static/js/PlanningPage.db2d196b.chunk.js"
+    "revision": "604210922176436efe2c",
+    "url": "/react_project/static/js/PlanningPage.c7edd5a3.chunk.js"
   },
   {
-    "revision": "170610398945f8e91168",
-    "url": "/react_project/static/js/main.d00bcadc.chunk.js"
+    "revision": "8519b535e029c2e3d5e6",
+    "url": "/react_project/static/js/main.abcfd965.chunk.js"
   },
   {
-    "revision": "09b15d56fe8cc3a6d54d",
-    "url": "/react_project/static/js/runtime-main.e31a5433.js"
+    "revision": "46f2c63417b2b58b1d2f",
+    "url": "/react_project/static/js/runtime-main.8b2108b8.js"
   },
   {
     "revision": "76e990f4ba9f67db09580c1d3308ac03",
